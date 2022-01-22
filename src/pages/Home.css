@@ -1,0 +1,20 @@
+.form-layout {
+  text-align: center;
+}
+
+.form-label {
+  font-size: medium;
+  font-weight: bold;
+  width: 100%;
+}
+
+.form-input {
+  width: 30%;
+}
+
+.form-detail {
+  font-size: medium;
+  text-align: left;
+  margin-left: 40px;
+  margin-top: 60px;
+}
