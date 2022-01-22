@@ -1,4 +1,4 @@
-#Front End Programmer Test - Beginner
+# Front End Programmer Test - Beginner
 
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -26,9 +26,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 # API Request Using Axios
-
-
-
+.
+.
+.
+.
 Thank you for the opportunity.
 
 Best regards,
